@@ -14,7 +14,7 @@ games { 'gta5' }
 name "Raccoons-Blips"
 author "TheRaccoon#0001"
 description "Created by TheRaccoon, to help make creating blips easier than ever!"
-version "v1.0.3"
+version "v1.0.4"
 
 client_scripts "client/blips.lua"
 server_script "server/verion_check.lua"
